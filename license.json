@@ -1,8 +1,7 @@
 {
   "allowed": [
     "leezora.com",
-    "shopyglob.shop",
-    "tendernext.store"
+    "shopyglob.shop"
 ],
   "blocked": []
 }
